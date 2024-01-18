@@ -2,4 +2,5 @@ It's a game that ı created with java with no game engine. It's based on a inter
 
 
 That's a part of the gameplay of it:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cwebYd0ODMI?si=dllMiwMBy2DCWGld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://github.com/Ali91Geyik/Java-Game-Demo/assets/102152834/ec44a58f-f7db-4d6c-aa61-0f9e7f680df7
+
