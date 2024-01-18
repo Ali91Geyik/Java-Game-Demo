@@ -2,5 +2,7 @@ It's a game that ı created with java with no game engine. It's based on a inter
 
 
 That's a part of the gameplay of it:
-https://github.com/Ali91Geyik/Java-Game-Demo/assets/102152834/ec44a58f-f7db-4d6c-aa61-0f9e7f680df7
+
+https://github.com/Ali91Geyik/Java-Game-Demo/assets/102152834/9d2d168d-ff0e-4a30-bc84-818fc32883bc
+
 
